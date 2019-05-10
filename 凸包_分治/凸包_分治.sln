@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "凸包_分治", "凸包_分治\凸包_分治.vcxproj", "{AC50EF9F-6302-4293-931A-A5F4E6F9DBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC50EF9F-6302-4293-931A-A5F4E6F9DBFC}.Debug|x64.ActiveCfg = Debug|x64
+		{AC50EF9F-6302-4293-931A-A5F4E6F9DBFC}.Debug|x64.Build.0 = Debug|x64
+		{AC50EF9F-6302-4293-931A-A5F4E6F9DBFC}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC50EF9F-6302-4293-931A-A5F4E6F9DBFC}.Debug|x86.Build.0 = Debug|Win32
+		{AC50EF9F-6302-4293-931A-A5F4E6F9DBFC}.Release|x64.ActiveCfg = Release|x64
+		{AC50EF9F-6302-4293-931A-A5F4E6F9DBFC}.Release|x64.Build.0 = Release|x64
+		{AC50EF9F-6302-4293-931A-A5F4E6F9DBFC}.Release|x86.ActiveCfg = Release|Win32
+		{AC50EF9F-6302-4293-931A-A5F4E6F9DBFC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B77A953-75F1-4F65-AF82-F462B748151A}
+	EndGlobalSection
+EndGlobal
