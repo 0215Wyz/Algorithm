@@ -84,4 +84,4 @@ print("Test set score : {:.2f}".format(knn.score(X_test,y_test)))
 grr = pd.plotting.scatter_matrix(iris_dataframe,marker='o',c = y_train,hist_kwds={'bins':20},cmap=mglearn.cm3)
 ```
 这处代码是修改之后的
-![Iris数据集的散点图矩阵](https://raw.githubusercontent.com/ADiscipleofSherlockHolmes/testing-and-pictures/master/picture/Iris%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84%E6%95%A3%E7%82%B9%E5%9B%BE%E7%9F%A9%E9%98%B5.PNG)
+![Iris数据集的散点图矩阵](https://raw.githubusercontent.com/ADiscipleofSherlockHolmes/Algorithm/master/ML/picture/Iris%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84%E6%95%A3%E7%82%B9%E5%9B%BE%E7%9F%A9%E9%98%B5.PNG)
